@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E4E584E0-48FD-0487-49F8-419FBE25EABF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FirstGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
